@@ -1,4 +1,4 @@
-# Tic Tac Toe with Reinforcement Learning 🤖❌⭕️
+# Tic Tac Toe
 
 This is a simple implementation of Tic Tac Toe using **Reinforcement Learning (RL)** in Python. The RL agents learn to play the game by training through self-play, and can eventually compete with each other or a human player.
 
