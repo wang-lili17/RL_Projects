@@ -1,4 +1,3 @@
-readme_content = """
 # Grid World Value Function Visualization
 
 This project implements the evaluation and visualization of **state-value functions** and **optimal policies** in a grid world environment using the Bellman equations from reinforcement learning theory.
