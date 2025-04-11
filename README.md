@@ -6,6 +6,13 @@ Whether you're a student, researcher, or enthusiast, you'll find clear implement
 
 ---
 
+##  Reference
+
+- 📖 Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction (2nd Edition)*  
+  [Sutton, R. S., & Barto, A. G. Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/the-book-2nd.html)
+
+---
+
 ### Key Highlights
 
 -  **Readable and documented** Python implementations  
@@ -23,13 +30,6 @@ Whether you're a student, researcher, or enthusiast, you'll find clear implement
 | [🧱 **Gridworld with MDP**](https://github.com/wang-lili17/RL_Projects/tree/main/gridworld-mdp) | A Markov Decision Process-based environment to understand states and rewards. |
 | [🧮 **Gridworld with Dynamic Programming**](https://github.com/wang-lili17/RL_Projects/tree/main/gridworld-dp) | Using Policy Evaluation, Policy Iteration, and Value Iteration to solve Gridworld. |
 | [🪙 **Gambler’s Problem**](https://github.com/wang-lili17/RL_Projects/tree/main/gambler-problem) | A coin tossing game where the gambler aims to reach 100 dollars using value iteration. |
-
----
-
-##  Reference
-
-- 📖 Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction (2nd Edition)*  
-  [Sutton, R. S., & Barto, A. G. Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/the-book-2nd.html)
 
 ---
 
