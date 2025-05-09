@@ -1,4 +1,4 @@
-# Monte Carlo Reinforcement Learning - Blackjack
+# Blackjack
 
 This project contains an implementation of Monte Carlo (MC) methods to solve the Blackjack environment using prediction and control strategies in reinforcement learning. It focuses on:
 
