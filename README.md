@@ -30,6 +30,11 @@ Whether you're a student, researcher, or enthusiast, you'll find clear implement
 | [🧱 **Gridworld with MDP**](https://github.com/wang-lili17/RL_Projects/tree/main/gridworld-mdp) | A Markov Decision Process-based environment to understand states and rewards. |
 | [🧮 **Gridworld with Dynamic Programming**](https://github.com/wang-lili17/RL_Projects/tree/main/gridworld-dp) | Using Policy Evaluation, Policy Iteration, and Value Iteration to solve Gridworld. |
 | [🪙 **Gambler’s Problem**](https://github.com/wang-lili17/RL_Projects/tree/main/gambler-problem) | A coin tossing game where the gambler aims to reach 100 dollars using value iteration. |
+| [A♠️10♠️ **Blackjack**](https://github.com/wang-lili17/RL_Projects/tree/main/blackjack) | Monte Carlo reinforcement learning applied to a card game to evaluate and improve policies. |
+| [♾️📉📈 **Infinite Variance**](https://github.com/wang-lili17/RL_Projects/tree/main/infinite-variance) | An example showing how Monte Carlo estimators can suffer from high variance in off-policy learning. |
+| [🚶 **Random Walk**](https://github.com/wang-lili17/RL_Projects/tree/main/random-walk) | Evaluate value functions in a linear environment using TD and MC methods with RMSE comparisons. |
+| [🌬️ **Windy Grid World**](https://github.com/wang-lili17/RL_Projects/tree/main/windy-gridworld) | Solve a wind-affected gridworld using SARSA and ε-greedy policy. |
+| [🧗 **Cliff Walking**](https://github.com/wang-lili17/RL_Projects/tree/main/cliff-walking) | Compare SARSA, Expected SARSA, and Q-learning on a grid with dangerous cliffs. |
 
 ---
 
